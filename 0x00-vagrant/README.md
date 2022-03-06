@@ -1,1 +1,1 @@
-Its a great day Mubaraqa
+using vagrant and Virtual box machine to run commands
